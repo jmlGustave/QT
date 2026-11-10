@@ -1,0 +1,14 @@
+debug/customheaderbar.o
+debug/edit_profile.o
+debug/history.o
+debug/main.o
+debug/mainwindow.o
+debug/problem_list.o
+debug/sign_up.o
+debug/qrc_resources.o
+debug/moc_customheaderbar.o
+debug/moc_edit_profile.o
+debug/moc_history.o
+debug/moc_mainwindow.o
+debug/moc_problem_list.o
+debug/moc_sign_up.o

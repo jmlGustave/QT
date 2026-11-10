@@ -1,0 +1,14 @@
+release/customheaderbar.o
+release/edit_profile.o
+release/history.o
+release/main.o
+release/mainwindow.o
+release/problem_list.o
+release/sign_up.o
+release/qrc_resources.o
+release/moc_customheaderbar.o
+release/moc_edit_profile.o
+release/moc_history.o
+release/moc_mainwindow.o
+release/moc_problem_list.o
+release/moc_sign_up.o
